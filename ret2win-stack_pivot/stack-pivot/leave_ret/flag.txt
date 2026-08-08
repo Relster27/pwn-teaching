@@ -1,0 +1,1 @@
+FLAG{stack_pivot_trus_syscall_buat_dapetin_shellzzz}

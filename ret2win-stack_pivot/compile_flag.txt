@@ -1,0 +1,1 @@
+gcc chall.c -o chall -Wl,-z,relro,-z,now -fPIE
