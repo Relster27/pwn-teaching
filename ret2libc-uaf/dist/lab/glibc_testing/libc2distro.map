@@ -1,0 +1,26 @@
+2.23 -> ubuntu:16.04
+
+2.24 -> debian:stretch
+
+2.27 -> ubuntu:18.04
+
+2.31 -> ubuntu:20.04
+
+2.32 -> debian:bullseye
+
+2.33 → debian:sid (snapshot)
+
+2.34 → ubuntu:21.10 (EOL) OR debian:sid (snapshot)
+
+2.35 -> ubuntu:22.04
+
+2.36 → ubuntu:22.10 (EOL) OR debian:sid (snapshot)
+
+# 2.37 Kinda not working
+2.37 -> ubuntu:23.04 OR debian:sid-20230411
+
+2.39 -> ubuntu:24.04
+
+2.38 → ubuntu:23.10 (EOL) OR debian:sid (snapshot)
+
+2.40 -> debian:sid

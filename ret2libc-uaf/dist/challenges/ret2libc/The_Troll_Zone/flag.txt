@@ -1,0 +1,1 @@
+KashiCTF{did_some_trolling_right_there}

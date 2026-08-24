@@ -1,0 +1,38 @@
+docker build \
+  --build-arg BASE_IMAGE=ubuntu:16.04 \
+  -t glibc_2.23 .
+  
+
+docker build \
+  --build-arg BASE_IMAGE=debian:stretch \
+  -t glibc_2.24 .
+
+
+docker build \
+  --build-arg BASE_IMAGE=ubuntu:18.04 \
+  -t glibc_2.27 .
+
+
+docker build \
+  --build-arg BASE_IMAGE=ubuntu:20.04 \
+  -t glibc_2.31 .
+
+
+docker build \
+  --build-arg BASE_IMAGE=debian:bullseye \
+  -t glibc_2.32 .
+
+
+docker build \
+  --build-arg BASE_IMAGE=ubuntu:22.04 \
+  -t glibc_2.35 .
+
+
+docker build \
+  --build-arg BASE_IMAGE=ubuntu:24.04 \
+  -t glibc_2.39 .
+
+
+docker build \
+  --build-arg BASE_IMAGE=debian:sid \
+  -t glibc_2.40 .
